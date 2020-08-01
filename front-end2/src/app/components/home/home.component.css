@@ -1,0 +1,9 @@
+.newsletter form .newsletter-btn  {
+    margin-top: 1px;
+}
+.pagination {
+    justify-content: center;
+}
+.disabled {
+    cursor: not-allowed;
+}
